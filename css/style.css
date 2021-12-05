@@ -1,0 +1,75 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	background: #fff;
+	font-family: 'Roboto', sans-serif;
+}
+.header {
+	max-width: 1180px;
+	align-items: center;
+	justify-content: space-between;
+	margin: 0 auto;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	display: flex;
+}
+.name p {
+	font-family: 'Nunito', sans-serif;
+	font-weight: 700;
+	font-size: 25px;
+}
+a {
+	text-decoration: none;
+}
+.email a {
+	font-weight: 400;
+	font-size: 15px;
+	color: #000;
+}
+.info {
+	margin: 0 auto;
+	justify-content: space-between;
+	align-items: center;
+	display: flex;
+	max-width: 1180px;
+	padding-top: 80px;
+	padding-bottom: 40px;
+}
+.text {
+
+}
+h1 {
+	font-weight: 400;
+	font-size: 45px;
+	max-width: 435px;
+	margin-bottom: 45px;
+}
+.text a {
+	color: #fff;
+	font-weight: 700;
+	font-size: 18px;
+	padding: 20px 30px;
+	background: #6A85E3;
+} 
+.information {
+	margin-top: 120px;
+	padding: 30px;
+	background: #EAEAEA;
+}
+h2 {
+	font-weight: 700;
+	font-size: 18px;
+}
+.information p {
+	font-size: 18px;
+	font-weight: 400;
+	color: #000;
+	margin-top: 18px;
+	max-width: 381px;
+}
+img {
+	max-width: 525px;
+	max-height: 640px;
+}
